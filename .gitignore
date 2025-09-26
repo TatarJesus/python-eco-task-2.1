@@ -1,0 +1,29 @@
+# Виртуальное окружение
+venv/
+.env/
+.venv/
+
+# Файлы, генерируемые MkDocs
+/site/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи и временные файлы
+*.log
+*.pot
+*.tmp
+*.swp
+*.swo
+
+# Конфиги IDE/редакторов
+.vscode/
+.idea/
+*.iml
+
+# Системные файлы Windows и Mac
+Thumbs.db
+.DS_Store
