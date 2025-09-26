@@ -6,7 +6,7 @@
 
 Сайт доступен по адресу:  
 
-👉 [https://TatarJesus.github.io/mysite/](https://TatarJesus.github.io/mysite/)
+👉 [https://tatarjesus.github.io/python-eco-task-2.1/](https://tatarjesus.github.io/python-eco-task-2.1/)
 
 ---
 
