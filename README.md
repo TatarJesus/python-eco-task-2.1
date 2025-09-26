@@ -6,7 +6,7 @@
 
 Сайт доступен по адресу:  
 
-👉 [https://USERNAME.github.io/mysite/](https://USERNAME.github.io/mysite/)
+👉 [https://TatarJesus.github.io/mysite/](https://TatarJesus.github.io/mysite/)
 
 ---
 
